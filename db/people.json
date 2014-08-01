@@ -1,0 +1,10 @@
+[
+  {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1213", "color":"pink", "website":"http://cnn.com"},
+  {"name":"Liza Carter", "email":"liza@gmail.com", "phone":"615-555-1212", "color":"blue", "website":"http://people.com"},
+  {"name":"Melanie Fryman", "email":"mel@hotmail.com", "phone":"615-555-1211", "color":"green", "website":"http://buzzfeed.com"},
+  {"name":"Michael Brown", "email":"michael@yahoo.com", "phone":"615-555-1210", "color":"yellow", "website":"http://reddit.com"},
+  {"name":"Logan Thompson", "email":"logan@link.com", "phone":"615-555-1209", "color":"orange", "website":"http://huffingtonpost.com"},
+  {"name":"Preston Magouirk", "email":"preston@msn.com", "phone":"615-555-1208", "color":"red", "website":"http://espn.com"},
+  {"name":"Maggie Carter", "email":"maggie@googlemail.com", "phone":"615-555-1207", "color":"cyan", "website":"http://anthropologie.com"},
+  {"name":"Chase Cowart", "email":"chase@hotmail.com", "phone":"615-555-31208", "color":"purple", "website":"http://concept2.com"},
+]

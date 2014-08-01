@@ -1,0 +1,17 @@
+.person{
+  display: inline-block;
+  border: 1px solid black;
+  width: 250px;
+  margin: 25px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.person a{
+  color: black;
+  text-decoration:none;
+}
+.person a:hover{
+  color: black;
+  text-decoration:underline;
+}

@@ -1,0 +1,25 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    title People: Address Book
+    link(rel='stylesheet', href='/css/style.css')
+  body
+    h1 Address Book
+    nav
+      ul
+        li: a(href= '/') Home
+        li: a(href = '/people') People
+        li: a(href= '/about') About
+        li: a(href = '/faq') FAQ's
+        li: a(href = '/contact') Contact
+    h2 People
+
+    each person in people
+      .person(style="background-color:#{person.color}")
+        h3: a(href='person.website')= person.name
+        .info(style="background-color:#{person.color}")
+        ul
+          li: a(href='mailto:'+person.email)= person.email
+          li= person.phone
+   
